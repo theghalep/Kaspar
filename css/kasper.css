@@ -947,6 +947,7 @@ header nav .form i {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
+    cursor: pointer;
 }
 
 .skills-section .container .testimonials li.active {
